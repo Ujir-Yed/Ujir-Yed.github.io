@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+
+title: "ThatPythonGuys"
+
+description: "Home to the legendary"
